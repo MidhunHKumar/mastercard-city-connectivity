@@ -1,4 +1,4 @@
-# city-connectivity
+# mastercard-city-connectivity
  Repo for Masrtercard SpringBoot City Connectivity Checker application 
 
 

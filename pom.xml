@@ -8,11 +8,11 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mastercard.test</groupId>
-	<artifactId>city-connectivity</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>city-connectivity</name>
-	<description>Demo project for Mastercard City Connectivity Checking App</description>
+	<groupId>com.mastercard.codechallenge</groupId>
+	<artifactId>mastercard-city-connectivity</artifactId>
+	<version>1.0</version>
+	<name>mastercard-city-connectivity</name>
+	<description>SpringBoot project for Mastercard City Connectivity Checking App</description>
 
 	<properties>
 		<java.version>1.8</java.version>
